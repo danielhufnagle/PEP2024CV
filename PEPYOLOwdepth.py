@@ -74,10 +74,11 @@ while True:
             fontScale = 1
             color = (255, 0, 0)
             thickness = 2
+            display_string = classNames[cls] + str(round(dist,2))
 
 
             #cv2.putText(color_image, classNames[cls], org, font, fontScale, color, thickness)
-            cv2.putText(color_image, str(round(dist,2)), org, font, fontScale, color, thickness)
+            cv2.putText(color_image, display_string, org, font, fontScale, color, thickness)
 
 
     cv2.imshow("color", color_image)
