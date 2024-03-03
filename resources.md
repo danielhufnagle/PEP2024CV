@@ -2,6 +2,13 @@
 
 ## Roboflow Stuff
 [Information on deploying](https://app.roboflow.com/pepbuoys-qrwxn/pepbuoys/deploy)
+## Local Training Stuff
+Some videos and other resources that could potentially be helpful if we are interested in training our own model:
+- https://www.youtube.com/watch?v=XZ7FYAMCc4M
+- https://www.youtube.com/watch?v=8ktcGQ-XreQ
+- https://www.youtube.com/watch?v=-ZyFYniGUsw
+- https://www.youtube.com/watch?v=tFNJGim3FXw
+
 ## Realsense Stuff
 ### Installing Pyrealsense2 on an Nvidia Jetson
 *Because this is a pain in the ass*
